@@ -1,0 +1,17 @@
+certifi==2021.5.30
+chardet==4.0.0
+charset-normalizer==2.0.2
+click==8.0.1
+gTTS==2.2.3
+idna==3.2
+pdfminer.six==20200517
+pdfplumber==0.5.28
+Pillow==8.3.1
+pycryptodome==3.10.1
+PyPDF2==1.26.0
+requests==2.26.0
+resp==0.1.2
+six==1.16.0
+sortedcontainers==2.4.0
+urllib3==1.26.6
+Wand==0.6.6
